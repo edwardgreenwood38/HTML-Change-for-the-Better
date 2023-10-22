@@ -14,6 +14,17 @@ main,
     height: auto;
 }
 
+h5 {
+    font-style: italic;
+    font-weight: normal;
+}
+
+h5 strong {
+    font-style: normal;
+    font-weight: bold;
+}
+
+
 .btn1 {
     color: green;
     background-color: red;
